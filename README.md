@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository is a concise guide to PyTorch for Deep Learning. Our goal is to create an accessible resource that helps learners understand both the PyTorch library and the fundamental concepts of deep learning.
+This repository is a concise guide to PyTorch for Deep Learning. My goal is to create an accessible resource that helps learners understand both the PyTorch library and the fundamental concepts of deep learning.
 
 
 ## Objectives
